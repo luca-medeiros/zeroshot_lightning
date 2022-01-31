@@ -1,0 +1,18 @@
+# pytorch >=1.7.1 gpu
+ftfy
+albumentations
+imgaug
+pytorch_lightning
+pytorch_metric_learning
+plotly
+kornia
+timm
+scipy
+wandb
+imblearn
+umap-learn
+adamp
+torch-optimizer
+regex
+transformers
+pandas
